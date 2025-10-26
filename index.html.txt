@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8">
+  <title>Dashboard العملاء</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Dashboard العملاء</h1>
+  <div id="totalUsers">عدد العملاء: ...</div>
+  <table id="customersTable">
+    <thead>
+      <tr>
+        <th>اسم الطفل</th>
+        <th>رقم الهاتف</th>
+        <th>مجموع النقاط</th>
+      </tr>
+    </thead>
+    <tbody></tbody>
+  </table>
+
+  <script src="script.js"></script>
+</body>
+</html>
